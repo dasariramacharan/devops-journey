@@ -33,6 +33,6 @@ Examples
 
 
 References
-[Ansinble on Azure](https://docs.microsoft.com/en-us/azure/ansible/)
-[Automate Azure Resources with Ansible - has more links](https://channel9.msdn.com/Shows/Azure-Friday/Automate-Azure-Resources-with-Ansible?term=Ansible&lang-en=true)
-[Azure Friday: Running Ansible on Azure](https://channel9.msdn.com/Shows/Azure-Friday/Running-Ansible-on-Azure?term=Ansible&lang-en=true)
+* [Ansinble on Azure](https://docs.microsoft.com/en-us/azure/ansible/)
+* [Automate Azure Resources with Ansible - has more links](https://channel9.msdn.com/Shows/Azure-Friday/Automate-Azure-Resources-with-Ansible?term=Ansible&lang-en=true)
+* [Azure Friday: Running Ansible on Azure](https://channel9.msdn.com/Shows/Azure-Friday/Running-Ansible-on-Azure?term=Ansible&lang-en=true)
