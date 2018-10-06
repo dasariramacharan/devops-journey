@@ -23,6 +23,16 @@ Terms
 * subnet
 * 
 
+Notes
+* You could use Azure Cloud Shell (shell.azure.com) as your controller host. Ansible is pre-installed on Azure Cloud Shell. 
+* 
+
 Examples 
 * [Create VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ansible-create-vm)
 * 
+
+
+References
+[Ansinble on Azure](https://docs.microsoft.com/en-us/azure/ansible/)
+[Automate Azure Resources with Ansible - has more links](https://channel9.msdn.com/Shows/Azure-Friday/Automate-Azure-Resources-with-Ansible?term=Ansible&lang-en=true)
+[Azure Friday: Running Ansible on Azure] (https://channel9.msdn.com/Shows/Azure-Friday/Running-Ansible-on-Azure?term=Ansible&lang-en=true)
