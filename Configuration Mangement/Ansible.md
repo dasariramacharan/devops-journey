@@ -25,7 +25,8 @@ Terms
 
 Notes
 * You could use Azure Cloud Shell (shell.azure.com) as your controller host. Ansible is pre-installed on Azure Cloud Shell. 
-* 
+* If you are going to use tools such as Ansible Tower or Jenkins, you will need to use the option of declaring the service principal values as environment variables.
+* For a development environment, [create a credentials file for Ansible on your host virtual machine](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ansible-install-configure#create-azure-credentials).
 
 Examples 
 * [Create VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ansible-create-vm)
